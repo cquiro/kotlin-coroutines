@@ -1,0 +1,23 @@
+# Kotlin / Java build
+/build/
+out/
+*.class
+
+# Gradle
+.gradle/
+!gradle/wrapper/gradle-wrapper.jar
+**/build/
+
+# IDEs
+.idea/
+*.iml
+
+# OS
+.DS_Store
+
+# Logs
+*.log
+
+# Kotlin-specific
+*.kts~
+
